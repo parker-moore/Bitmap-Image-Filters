@@ -4,5 +4,5 @@ Read and wrote .bmp images by overloading >> and << operators. Added filters cel
 ![](pikachu.bmp)
 ![](pikachu_blur.bmp)
 ![](pikachu_gray.bmp)
-![](piakchu_pixel.bmp)
+![](pikachu_pixel.bmp)
 ![](pikachu_cell.bmp)
